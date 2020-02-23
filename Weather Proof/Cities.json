@@ -1,0 +1,2065 @@
+{
+    "cities": [
+{
+  "id": 2711537,
+  "name": "Goeteborg",
+  "country": "SE",
+  "coord": {
+    "lon": 11.96679,
+    "lat": 57.707161
+  }
+},
+{
+  "id": 2666199,
+  "name": "Uppsala",
+  "country": "SE",
+  "coord": {
+    "lon": 17.64543,
+    "lat": 59.858501
+  }
+},
+{
+  "id": 2716080,
+  "name": "Eriksberg",
+  "country": "SE",
+  "coord": {
+    "lon": 17.616671,
+    "lat": 59.849998
+  }
+},
+{
+  "id": 2681587,
+  "name": "Rosenlund",
+  "country": "SE",
+  "coord": {
+    "lon": 14.2,
+    "lat": 57.783329
+  }
+},
+{
+  "id": 2680075,
+  "name": "Sandviken",
+  "country": "SE",
+  "coord": {
+    "lon": 16.76667,
+    "lat": 60.616669
+  }
+},
+{
+  "id": 2722799,
+  "name": "Bergholmen",
+  "country": "SE",
+  "coord": {
+    "lon": 13.51576,
+    "lat": 59.36338
+  }
+},
+{
+  "id": 606530,
+  "name": "Bodens Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 21.66667,
+    "lat": 65.833328
+  }
+},
+{
+  "id": 603819,
+  "name": "Overluleå",
+  "country": "SE",
+  "coord": {
+    "lon": 21.700001,
+    "lat": 65.833328
+  }
+},
+{
+  "id": 2702259,
+  "name": "Kalmar Län",
+  "country": "SE",
+  "coord": {
+    "lon": 16,
+    "lat": 57.333328
+  }
+},
+{
+  "id": 2686161,
+  "name": "Oskarshamns Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 16.33333,
+    "lat": 57.366669
+  }
+},
+{
+  "id": 2686162,
+  "name": "Oskarshamn",
+  "country": "SE",
+  "coord": {
+    "lon": 16.44837,
+    "lat": 57.264549
+  }
+},
+{
+  "id": 2720382,
+  "name": "Borlänge Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 15.41667,
+    "lat": 60.466671
+  }
+},
+{
+  "id": 2691798,
+  "name": "Mjälga",
+  "country": "SE",
+  "coord": {
+    "lon": 15.43333,
+    "lat": 60.48333
+  }
+},
+{
+  "id": 2699957,
+  "name": "Kolla",
+  "country": "SE",
+  "coord": {
+    "lon": 12.06667,
+    "lat": 57.48333
+  }
+},
+{
+  "id": 2664996,
+  "name": "Varberg",
+  "country": "SE",
+  "coord": {
+    "lon": 12.25078,
+    "lat": 57.105572
+  }
+},
+{
+  "id": 2694759,
+  "name": "Linköpings Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 15.6187,
+    "lat": 58.410461
+  }
+},
+{
+  "id": 8131853,
+  "name": "Linköpings S:t Lars",
+  "country": "SE",
+  "coord": {
+    "lon": 15.62492,
+    "lat": 58.411388
+  }
+},
+{
+  "id": 8126430,
+  "name": "Linköping socken",
+  "country": "SE",
+  "coord": {
+    "lon": 15.62732,
+    "lat": 58.399471
+  }
+},
+{
+  "id": 2694762,
+  "name": "Linkoping",
+  "country": "SE",
+  "coord": {
+    "lon": 15.62157,
+    "lat": 58.410858
+  }
+},
+{
+  "id": 2664179,
+  "name": "Västmanlands Län",
+  "country": "SE",
+  "coord": {
+    "lon": 16.33333,
+    "lat": 59.75
+  }
+},
+{
+  "id": 2664441,
+  "name": "Västerås Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 16.58333,
+    "lat": 59.616669
+  }
+},
+{
+  "id": 2664454,
+  "name": "Vasteras",
+  "country": "SE",
+  "coord": {
+    "lon": 16.552759,
+    "lat": 59.616169
+  }
+},
+{
+  "id": 604488,
+  "name": "Luleå Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 22.16667,
+    "lat": 65.683327
+  }
+},
+{
+  "id": 604490,
+  "name": "Lulea",
+  "country": "SE",
+  "coord": {
+    "lon": 22.15465,
+    "lat": 65.584152
+  }
+},
+{
+  "id": 2602687,
+  "name": "Södermalm",
+  "country": "SE",
+  "coord": {
+    "lon": 17.28611,
+    "lat": 62.38472
+  }
+},
+{
+  "id": 2726755,
+  "name": "Alingsås Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 12.5,
+    "lat": 58
+  }
+},
+{
+  "id": 2689513,
+  "name": "Nolhaga",
+  "country": "SE",
+  "coord": {
+    "lon": 12.51746,
+    "lat": 57.93367
+  }
+},
+{
+  "id": 2700801,
+  "name": "Kiruna Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 19.5,
+    "lat": 68.166672
+  }
+},
+{
+  "id": 605155,
+  "name": "Kiruna",
+  "country": "SE",
+  "coord": {
+    "lon": 20.22513,
+    "lat": 67.855721
+  }
+},
+{
+  "id": 2725469,
+  "name": "Arboga Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 15.83333,
+    "lat": 59.383331
+  }
+},
+{
+  "id": 2725471,
+  "name": "Arboga",
+  "country": "SE",
+  "coord": {
+    "lon": 15.83882,
+    "lat": 59.393871
+  }
+},
+{
+  "id": 2702261,
+  "name": "Kalmar",
+  "country": "SE",
+  "coord": {
+    "lon": 16.361629,
+    "lat": 56.661572
+  }
+},
+{
+  "id": 2698433,
+  "name": "Kvarnholmen",
+  "country": "SE",
+  "coord": {
+    "lon": 16.366671,
+    "lat": 56.666672
+  }
+},
+{
+  "id": 2690959,
+  "name": "Motala Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 15.16667,
+    "lat": 58.549999
+  }
+},
+{
+  "id": 6944523,
+  "name": "Duvedal",
+  "country": "SE",
+  "coord": {
+    "lon": 15.0505,
+    "lat": 58.547901
+  }
+},
+{
+  "id": 2686466,
+  "name": "Örnsköldsviks Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 18.716669,
+    "lat": 63.283329
+  }
+},
+{
+  "id": 2686469,
+  "name": "Ornskoldsvik",
+  "country": "SE",
+  "coord": {
+    "lon": 18.71525,
+    "lat": 63.290909
+  }
+},
+{
+  "id": 2720501,
+  "name": "Boras",
+  "country": "SE",
+  "coord": {
+    "lon": 12.9401,
+    "lat": 57.721008
+  }
+},
+{
+  "id": 2662880,
+  "name": "Vimmerby Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 15.83333,
+    "lat": 57.683331
+  }
+},
+{
+  "id": 2715572,
+  "name": "Falkenbergs Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 12.53333,
+    "lat": 56.900002
+  }
+},
+{
+  "id": 3326084,
+  "name": "Anderstorp",
+  "country": "SE",
+  "coord": {
+    "lon": 12.5,
+    "lat": 56.900002
+  }
+},
+{
+  "id": 2670883,
+  "name": "Sundby",
+  "country": "SE",
+  "coord": {
+    "lon": 17.033331,
+    "lat": 59.383331
+  }
+},
+{
+  "id": 2685747,
+  "name": "Östersunds Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 14.91667,
+    "lat": 63.25
+  }
+},
+{
+  "id": 2685750,
+  "name": "Ostersund",
+  "country": "SE",
+  "coord": {
+    "lon": 14.63566,
+    "lat": 63.179199
+  }
+},
+{
+  "id": 2677233,
+  "name": "Skövde Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 13.91667,
+    "lat": 58.416672
+  }
+},
+{
+  "id": 2701980,
+  "name": "Käpplunda",
+  "country": "SE",
+  "coord": {
+    "lon": 13.83333,
+    "lat": 58.400002
+  }
+},
+{
+  "id": 2685092,
+  "name": "Ovanåkers Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 15.81667,
+    "lat": 61.416672
+  }
+},
+{
+  "id": 2681416,
+  "name": "Roteberg",
+  "country": "SE",
+  "coord": {
+    "lon": 15.81667,
+    "lat": 61.383331
+  }
+},
+{
+  "id": 2701714,
+  "name": "Karlskoga Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 14.55,
+    "lat": 59.333328
+  }
+},
+{
+  "id": 2701715,
+  "name": "Karlskoga",
+  "country": "SE",
+  "coord": {
+    "lon": 14.52386,
+    "lat": 59.326672
+  }
+},
+{
+  "id": 605387,
+  "name": "Kalix Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 23,
+    "lat": 66
+  }
+},
+{
+  "id": 603291,
+  "name": "Rolfs",
+  "country": "SE",
+  "coord": {
+    "lon": 23.116671,
+    "lat": 65.849998
+  }
+},
+{
+  "id": 2667872,
+  "name": "Torsby Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 13.08333,
+    "lat": 60.5
+  }
+},
+{
+  "id": 2667876,
+  "name": "Torsby",
+  "country": "SE",
+  "coord": {
+    "lon": 13.0082,
+    "lat": 60.135269
+  }
+},
+{
+  "id": 2697859,
+  "name": "Laholms Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 13.23333,
+    "lat": 56.5
+  }
+},
+{
+  "id": 2697861,
+  "name": "Laholm",
+  "country": "SE",
+  "coord": {
+    "lon": 13.04371,
+    "lat": 56.51207
+  }
+},
+{
+  "id": 604382,
+  "name": "Matarengi",
+  "country": "SE",
+  "coord": {
+    "lon": 23.66667,
+    "lat": 66.383331
+  }
+},
+{
+  "id": 606833,
+  "name": "Älvsbyns Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 21,
+    "lat": 65.699997
+  }
+},
+{
+  "id": 606834,
+  "name": "AElvsbyn",
+  "country": "SE",
+  "coord": {
+    "lon": 21.001619,
+    "lat": 65.676239
+  }
+},
+{
+  "id": 2715458,
+  "name": "Faluns Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 15.63492,
+    "lat": 60.604832
+  }
+},
+{
+  "id": 2715459,
+  "name": "Falun",
+  "country": "SE",
+  "coord": {
+    "lon": 15.62597,
+    "lat": 60.603569
+  }
+},
+{
+  "id": 2669046,
+  "name": "Timrå Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 17.30694,
+    "lat": 62.477779
+  }
+},
+{
+  "id": 2716854,
+  "name": "Edsgården",
+  "country": "SE",
+  "coord": {
+    "lon": 17.299999,
+    "lat": 62.48333
+  }
+},
+{
+  "id": 2692611,
+  "name": "Mariestads Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 13.83333,
+    "lat": 58.700001
+  }
+},
+{
+  "id": 2683709,
+  "name": "Radbyn",
+  "country": "SE",
+  "coord": {
+    "lon": 13.8,
+    "lat": 58.700001
+  }
+},
+{
+  "id": 2715658,
+  "name": "Fagerslätt",
+  "country": "SE",
+  "coord": {
+    "lon": 14.28333,
+    "lat": 57.799999
+  }
+},
+{
+  "id": 605857,
+  "name": "Haparanda Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 24.1,
+    "lat": 65.833328
+  }
+},
+{
+  "id": 605859,
+  "name": "Haparanda",
+  "country": "SE",
+  "coord": {
+    "lon": 24.136761,
+    "lat": 65.835487
+  }
+},
+{
+  "id": 2600754,
+  "name": "Brynäs",
+  "country": "SE",
+  "coord": {
+    "lon": 17.17103,
+    "lat": 60.672508
+  }
+},
+{
+  "id": 2679300,
+  "name": "Sigtuna Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 17.91667,
+    "lat": 59.650002
+  }
+},
+{
+  "id": 2679302,
+  "name": "Sigtuna",
+  "country": "SE",
+  "coord": {
+    "lon": 17.72361,
+    "lat": 59.61731
+  }
+},
+{
+  "id": 2680657,
+  "name": "Sala Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 16.6,
+    "lat": 59.966671
+  }
+},
+{
+  "id": 2680662,
+  "name": "Sala",
+  "country": "SE",
+  "coord": {
+    "lon": 16.60655,
+    "lat": 59.91993
+  }
+},
+{
+  "id": 2705085,
+  "name": "Hönekulla",
+  "country": "SE",
+  "coord": {
+    "lon": 12.13333,
+    "lat": 57.650002
+  }
+},
+{
+  "id": 2688248,
+  "name": "Norrtälje Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 18.700001,
+    "lat": 59.76667
+  }
+},
+{
+  "id": 2688250,
+  "name": "Norrtalje",
+  "country": "SE",
+  "coord": {
+    "lon": 18.70496,
+    "lat": 59.757992
+  }
+},
+{
+  "id": 2690167,
+  "name": "Nässjö Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 14.68333,
+    "lat": 57.633331
+  }
+},
+{
+  "id": 2690170,
+  "name": "Nassjo",
+  "country": "SE",
+  "coord": {
+    "lon": 14.69676,
+    "lat": 57.653069
+  }
+},
+{
+  "id": 2664201,
+  "name": "Västerviks Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 16.38306,
+    "lat": 57.799721
+  }
+},
+{
+  "id": 2664203,
+  "name": "Vaestervik",
+  "country": "SE",
+  "coord": {
+    "lon": 16.637329,
+    "lat": 57.7584
+  }
+},
+{
+  "id": 2668516,
+  "name": "Toftenäs",
+  "country": "SE",
+  "coord": {
+    "lon": 11.55,
+    "lat": 58
+  }
+},
+{
+  "id": 2699281,
+  "name": "Kristinehamns Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 14.13333,
+    "lat": 59.299999
+  }
+},
+{
+  "id": 2673969,
+  "name": "Stensta",
+  "country": "SE",
+  "coord": {
+    "lon": 14.1,
+    "lat": 59.333328
+  }
+},
+{
+  "id": 2701221,
+  "name": "Katrineholms Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 16.200001,
+    "lat": 59
+  }
+},
+{
+  "id": 2701223,
+  "name": "Katrineholm",
+  "country": "SE",
+  "coord": {
+    "lon": 16.207211,
+    "lat": 58.995869
+  }
+},
+{
+  "id": 2725898,
+  "name": "Ängelholms Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 12.88333,
+    "lat": 56.23333
+  }
+},
+{
+  "id": 2682850,
+  "name": "Rebbelberga",
+  "country": "SE",
+  "coord": {
+    "lon": 12.86667,
+    "lat": 56.25
+  }
+},
+{
+  "id": 2687897,
+  "name": "Nybro Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 15.93333,
+    "lat": 56.716671
+  }
+},
+{
+  "id": 2687902,
+  "name": "Nybro",
+  "country": "SE",
+  "coord": {
+    "lon": 15.90714,
+    "lat": 56.74461
+  }
+},
+{
+  "id": 2721357,
+  "name": "Blekinge Län",
+  "country": "SE",
+  "coord": {
+    "lon": 15.33333,
+    "lat": 56.333328
+  }
+},
+{
+  "id": 2701725,
+  "name": "Karlshamns Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 14.86667,
+    "lat": 56.25
+  }
+},
+{
+  "id": 2701727,
+  "name": "Karlshamn",
+  "country": "SE",
+  "coord": {
+    "lon": 14.86188,
+    "lat": 56.170601
+  }
+},
+{
+  "id": 2700854,
+  "name": "Kinda Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 15.88333,
+    "lat": 58
+  }
+},
+{
+  "id": 2700800,
+  "name": "Kisa",
+  "country": "SE",
+  "coord": {
+    "lon": 15.63303,
+    "lat": 57.987808
+  }
+},
+{
+  "id": 2697719,
+  "name": "Landskrona Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 12.83333,
+    "lat": 55.883331
+  }
+},
+{
+  "id": 2697720,
+  "name": "Landskrona",
+  "country": "SE",
+  "coord": {
+    "lon": 12.83016,
+    "lat": 55.8708
+  }
+},
+{
+  "id": 2698753,
+  "name": "Kumla Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 15.13333,
+    "lat": 59.133331
+  }
+},
+{
+  "id": 2698767,
+  "name": "Kumla",
+  "country": "SE",
+  "coord": {
+    "lon": 15.14341,
+    "lat": 59.127701
+  }
+},
+{
+  "id": 3332888,
+  "name": "Hedegärde",
+  "country": "SE",
+  "coord": {
+    "lon": 11.95,
+    "lat": 58.366669
+  }
+},
+{
+  "id": 2669117,
+  "name": "Tibro Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 14.2,
+    "lat": 58.416672
+  }
+},
+{
+  "id": 2669118,
+  "name": "Tibro",
+  "country": "SE",
+  "coord": {
+    "lon": 14.16162,
+    "lat": 58.42453
+  }
+},
+{
+  "id": 2712044,
+  "name": "Gislaveds Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 13.45,
+    "lat": 57.25
+  }
+},
+{
+  "id": 2712045,
+  "name": "Gislaved",
+  "country": "SE",
+  "coord": {
+    "lon": 13.54078,
+    "lat": 57.304401
+  }
+},
+{
+  "id": 2725371,
+  "name": "Arjeplogs Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 17,
+    "lat": 66.416672
+  }
+},
+{
+  "id": 2725372,
+  "name": "Arjeplog",
+  "country": "SE",
+  "coord": {
+    "lon": 17.886061,
+    "lat": 66.051727
+  }
+},
+{
+  "id": 2669112,
+  "name": "Tidaholms Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 13.93333,
+    "lat": 58.200001
+  }
+},
+{
+  "id": 2669113,
+  "name": "Tidaholm",
+  "country": "SE",
+  "coord": {
+    "lon": 13.95824,
+    "lat": 58.180351
+  }
+},
+{
+  "id": 2727664,
+  "name": "Abisko",
+  "country": "SE",
+  "coord": {
+    "lon": 18.82868,
+    "lat": 68.349136
+  }
+},
+{
+  "id": 2724956,
+  "name": "Åsele Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 17.33333,
+    "lat": 64.166672
+  }
+},
+{
+  "id": 2724958,
+  "name": "Asele",
+  "country": "SE",
+  "coord": {
+    "lon": 17.33333,
+    "lat": 64.166672
+  }
+},
+{
+  "id": 2692349,
+  "name": "Matfors",
+  "country": "SE",
+  "coord": {
+    "lon": 17.033331,
+    "lat": 62.349998
+  }
+},
+{
+  "id": 2663036,
+  "name": "Viken",
+  "country": "SE",
+  "coord": {
+    "lon": 12.56667,
+    "lat": 56.150002
+  }
+},
+{
+  "id": 2676214,
+  "name": "Söderköpings Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 16.33333,
+    "lat": 58.450001
+  }
+},
+{
+  "id": 2676215,
+  "name": "Soederkoeping",
+  "country": "SE",
+  "coord": {
+    "lon": 16.32221,
+    "lat": 58.480572
+  }
+},
+{
+  "id": 2694502,
+  "name": "Ljusdals Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 15.7,
+    "lat": 61.866669
+  }
+},
+{
+  "id": 2694503,
+  "name": "Ljusdal",
+  "country": "SE",
+  "coord": {
+    "lon": 16.091261,
+    "lat": 61.828831
+  }
+},
+{
+  "id": 2700754,
+  "name": "Kivik",
+  "country": "SE",
+  "coord": {
+    "lon": 14.25,
+    "lat": 55.683331
+  }
+},
+{
+  "id": 2717400,
+  "name": "Dorotea Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 16,
+    "lat": 64.5
+  }
+},
+{
+  "id": 2717401,
+  "name": "Dorotea",
+  "country": "SE",
+  "coord": {
+    "lon": 16.413059,
+    "lat": 64.261848
+  }
+},
+{
+  "id": 2675078,
+  "name": "Sorsele Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 16.75,
+    "lat": 65.75
+  }
+},
+{
+  "id": 2675079,
+  "name": "Sorsele",
+  "country": "SE",
+  "coord": {
+    "lon": 17.53702,
+    "lat": 65.534843
+  }
+},
+{
+  "id": 606239,
+  "name": "Esrange",
+  "country": "SE",
+  "coord": {
+    "lon": 21.116671,
+    "lat": 67.883331
+  }
+},
+{
+  "id": 2710683,
+  "name": "Grimsta",
+  "country": "SE",
+  "coord": {
+    "lon": 17.86935,
+    "lat": 59.358398
+  }
+},
+{
+  "id": 2721518,
+  "name": "Blackeberg",
+  "country": "SE",
+  "coord": {
+    "lon": 17.879049,
+    "lat": 59.348572
+  }
+},
+{
+  "id": 2671389,
+  "name": "Strängnäs Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 17.033331,
+    "lat": 59.349998
+  }
+},
+{
+  "id": 2692633,
+  "name": "Mariefred",
+  "country": "SE",
+  "coord": {
+    "lon": 17.216669,
+    "lat": 59.26667
+  }
+},
+{
+  "id": 2717824,
+  "name": "Delsbo",
+  "country": "SE",
+  "coord": {
+    "lon": 16.55571,
+    "lat": 61.801041
+  }
+},
+{
+  "id": 2690578,
+  "name": "Nacka Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 18.17551,
+    "lat": 59.310768
+  }
+},
+{
+  "id": 2675382,
+  "name": "Solsidan",
+  "country": "SE",
+  "coord": {
+    "lon": 18.299999,
+    "lat": 59.283329
+  }
+},
+{
+  "id": 2693081,
+  "name": "Malen",
+  "country": "SE",
+  "coord": {
+    "lon": 12.85,
+    "lat": 56.433331
+  }
+},
+{
+  "id": 2679106,
+  "name": "Simrishamns Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 14.3,
+    "lat": 55.566669
+  }
+},
+{
+  "id": 2679107,
+  "name": "Simrishamn",
+  "country": "SE",
+  "coord": {
+    "lon": 14.35037,
+    "lat": 55.55653
+  }
+},
+{
+  "id": 2704397,
+  "name": "Hultsfreds Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 15.8,
+    "lat": 57.400002
+  }
+},
+{
+  "id": 2662706,
+  "name": "Virserum",
+  "country": "SE",
+  "coord": {
+    "lon": 15.58333,
+    "lat": 57.316669
+  }
+},
+{
+  "id": 603760,
+  "name": "Pajala Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 23,
+    "lat": 67.25
+  }
+},
+{
+  "id": 603761,
+  "name": "Pajala",
+  "country": "SE",
+  "coord": {
+    "lon": 23.36607,
+    "lat": 67.212837
+  }
+},
+{
+  "id": 2726330,
+  "name": "Älvdalens Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 13.75,
+    "lat": 61.333328
+  }
+},
+{
+  "id": 2726332,
+  "name": "AElvdalen",
+  "country": "SE",
+  "coord": {
+    "lon": 14.03935,
+    "lat": 61.227741
+  }
+},
+{
+  "id": 2706183,
+  "name": "Hjo Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 14.21667,
+    "lat": 58.299999
+  }
+},
+{
+  "id": 2706184,
+  "name": "Hjo",
+  "country": "SE",
+  "coord": {
+    "lon": 14.28784,
+    "lat": 58.301331
+  }
+},
+{
+  "id": 2694366,
+  "name": "Lodose",
+  "country": "SE",
+  "coord": {
+    "lon": 12.13333,
+    "lat": 58.033329
+  }
+},
+{
+  "id": 606388,
+  "name": "Bredträskheden",
+  "country": "SE",
+  "coord": {
+    "lon": 21.5,
+    "lat": 65.650002
+  }
+},
+{
+  "id": 2708366,
+  "name": "Halmstad",
+  "country": "SE",
+  "coord": {
+    "lon": 13.03333,
+    "lat": 55.950001
+  }
+},
+{
+  "id": 606266,
+  "name": "Edefors",
+  "country": "SE",
+  "coord": {
+    "lon": 20.9,
+    "lat": 66.216667
+  }
+},
+{
+  "id": 7304459,
+  "name": "Erikslid",
+  "country": "SE",
+  "coord": {
+    "lon": 20.95676,
+    "lat": 64.76033
+  }
+},
+{
+  "id": 2706767,
+  "name": "Helsingborg",
+  "country": "SE",
+  "coord": {
+    "lon": 12.69437,
+    "lat": 56.04673
+  }
+},
+{
+  "id": 2698691,
+  "name": "Kungsholmen",
+  "country": "SE",
+  "coord": {
+    "lon": 18.04118,
+    "lat": 59.331829
+  }
+},
+{
+  "id": 2688368,
+  "name": "Norrkoping",
+  "country": "SE",
+  "coord": {
+    "lon": 16.1826,
+    "lat": 58.594189
+  }
+},
+{
+  "id": 2692965,
+  "name": "Malmö Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 13,
+    "lat": 55.583328
+  }
+},
+{
+  "id": 2692969,
+  "name": "Malmoe",
+  "country": "SE",
+  "coord": {
+    "lon": 13.00073,
+    "lat": 55.605869
+  }
+},
+{
+  "id": 2715953,
+  "name": "Eskilstuna",
+  "country": "SE",
+  "coord": {
+    "lon": 16.5077,
+    "lat": 59.366611
+  }
+},
+{
+  "id": 602912,
+  "name": "Skellefteå Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 21.133329,
+    "lat": 64.75
+  }
+},
+{
+  "id": 2711533,
+  "name": "Göteborgs Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 11.91667,
+    "lat": 57.700001
+  }
+},
+{
+  "id": 2711537,
+  "name": "Goeteborg",
+  "country": "SE",
+  "coord": {
+    "lon": 11.96679,
+    "lat": 57.707161
+  }
+},
+{
+  "id": 2721226,
+  "name": "Boarp",
+  "country": "SE",
+  "coord": {
+    "lon": 13.78333,
+    "lat": 55.933331
+  }
+},
+{
+  "id": 2669414,
+  "name": "Tanums Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 11.41667,
+    "lat": 58.75
+  }
+},
+{
+  "id": 2670036,
+  "name": "Svenneby",
+  "country": "SE",
+  "coord": {
+    "lon": 11.31667,
+    "lat": 58.51667
+  }
+},
+{
+  "id": 2676207,
+  "name": "Södermanlands Län",
+  "country": "SE",
+  "coord": {
+    "lon": 16.66667,
+    "lat": 59.25
+  }
+},
+{
+  "id": 2715951,
+  "name": "Eskilstuna Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 16.48333,
+    "lat": 59.333328
+  }
+},
+{
+  "id": 2663548,
+  "name": "Vävle",
+  "country": "SE",
+  "coord": {
+    "lon": 16.700001,
+    "lat": 59.450001
+  }
+},
+{
+  "id": 2720678,
+  "name": "Bollnäs Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 16.433331,
+    "lat": 61.349998
+  }
+},
+{
+  "id": 2681447,
+  "name": "Röstebo",
+  "country": "SE",
+  "coord": {
+    "lon": 16.4,
+    "lat": 61.383331
+  }
+},
+{
+  "id": 2682776,
+  "name": "Ren",
+  "country": "SE",
+  "coord": {
+    "lon": 16.41667,
+    "lat": 61.366669
+  }
+},
+{
+  "id": 2669768,
+  "name": "Täby Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 18.0653,
+    "lat": 59.437389
+  }
+},
+{
+  "id": 2669772,
+  "name": "Taby",
+  "country": "SE",
+  "coord": {
+    "lon": 18.06872,
+    "lat": 59.443901
+  }
+},
+{
+  "id": 2678205,
+  "name": "Skara Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 13.43333,
+    "lat": 58.366669
+  }
+},
+{
+  "id": 2725439,
+  "name": "Ardala",
+  "country": "SE",
+  "coord": {
+    "lon": 13.33333,
+    "lat": 58.349998
+  }
+},
+{
+  "id": 2695079,
+  "name": "Lillsjönäs",
+  "country": "SE",
+  "coord": {
+    "lon": 17.950001,
+    "lat": 59.333328
+  }
+},
+{
+  "id": 2691742,
+  "name": "Mjölby Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 15.13333,
+    "lat": 58.316669
+  }
+},
+{
+  "id": 2683371,
+  "name": "Ramshult",
+  "country": "SE",
+  "coord": {
+    "lon": 15.3,
+    "lat": 58.216671
+  }
+},
+{
+  "id": 3337386,
+  "name": "Västra Götalands Län",
+  "country": "SE",
+  "coord": {
+    "lon": 13,
+    "lat": 58
+  }
+},
+{
+  "id": 2667302,
+  "name": "Trollhättans Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 12.41667,
+    "lat": 58.23333
+  }
+},
+{
+  "id": 2665174,
+  "name": "Väne Åsaka",
+  "country": "SE",
+  "coord": {
+    "lon": 12.41667,
+    "lat": 58.25
+  }
+},
+{
+  "id": 2724180,
+  "name": "Axelvold",
+  "country": "SE",
+  "coord": {
+    "lon": 13.09178,
+    "lat": 55.96854
+  }
+},
+{
+  "id": 2696058,
+  "name": "Lilla Edets Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 12.16667,
+    "lat": 58.133331
+  }
+},
+{
+  "id": 2701590,
+  "name": "Kärra",
+  "country": "SE",
+  "coord": {
+    "lon": 12.15,
+    "lat": 58.083328
+  }
+},
+{
+  "id": 2705294,
+  "name": "Holmen",
+  "country": "SE",
+  "coord": {
+    "lon": 12.63333,
+    "lat": 57.799999
+  }
+},
+{
+  "id": 2668674,
+  "name": "Tjörns Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 11.66667,
+    "lat": 58.033329
+  }
+},
+{
+  "id": 2713509,
+  "name": "Frufällan",
+  "country": "SE",
+  "coord": {
+    "lon": 12.96667,
+    "lat": 57.783329
+  }
+},
+{
+  "id": 2712995,
+  "name": "Gamla Staden",
+  "country": "SE",
+  "coord": {
+    "lon": 13,
+    "lat": 55.599998
+  }
+},
+{
+  "id": 2687700,
+  "name": "Nykoping",
+  "country": "SE",
+  "coord": {
+    "lon": 17.007879,
+    "lat": 58.752998
+  }
+},
+{
+  "id": 602150,
+  "name": "Umea",
+  "country": "SE",
+  "coord": {
+    "lon": 20.25972,
+    "lat": 63.828419
+  }
+},
+{
+  "id": 2662881,
+  "name": "Vimmerby",
+  "country": "SE",
+  "coord": {
+    "lon": 15.85515,
+    "lat": 57.665878
+  }
+},
+{
+  "id": 2724227,
+  "name": "Åvik",
+  "country": "SE",
+  "coord": {
+    "lon": 17.1,
+    "lat": 61.73333
+  }
+},
+{
+  "id": 603569,
+  "name": "Piteå Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 21.5,
+    "lat": 65.333328
+  }
+},
+{
+  "id": 2665451,
+  "name": "Vallentuna Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 18.216669,
+    "lat": 59.583328
+  }
+},
+{
+  "id": 2666237,
+  "name": "Upplands-Väsby Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 17.91667,
+    "lat": 59.51667
+  }
+},
+{
+  "id": 2667401,
+  "name": "Trelleborgs Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 13.15,
+    "lat": 55.383331
+  }
+},
+{
+  "id": 2684394,
+  "name": "Partille Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 12.11667,
+    "lat": 57.73333
+  }
+},
+{
+  "id": 2691457,
+  "name": "Mölndals Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 12.08333,
+    "lat": 57.616669
+  }
+},
+{
+  "id": 2696332,
+  "name": "Lidingö Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 18.183331,
+    "lat": 59.366669
+  }
+},
+{
+  "id": 2704136,
+  "name": "Huskvarna",
+  "country": "SE",
+  "coord": {
+    "lon": 14.30214,
+    "lat": 57.785961
+  }
+},
+{
+  "id": 2707682,
+  "name": "Härnösands Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 17.683331,
+    "lat": 62.76667
+  }
+},
+{
+  "id": 2707952,
+  "name": "Haninge Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 18.154909,
+    "lat": 59.17382
+  }
+},
+{
+  "id": 2716166,
+  "name": "Enkoping",
+  "country": "SE",
+  "coord": {
+    "lon": 17.077681,
+    "lat": 59.63607
+  }
+},
+{
+  "id": 2725201,
+  "name": "Arsta",
+  "country": "SE",
+  "coord": {
+    "lon": 18.051399,
+    "lat": 59.297798
+  }
+},
+{
+  "id": 2685867,
+  "name": "Östergötlands Län",
+  "country": "SE",
+  "coord": {
+    "lon": 15.75,
+    "lat": 58.416672
+  }
+},
+{
+  "id": 2662946,
+  "name": "Vilan",
+  "country": "SE",
+  "coord": {
+    "lon": 14.13333,
+    "lat": 56.033329
+  }
+},
+{
+  "id": 2696328,
+  "name": "Lidköpings Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 13,
+    "lat": 58.5
+  }
+},
+{
+  "id": 2707363,
+  "name": "Hasslösa",
+  "country": "SE",
+  "coord": {
+    "lon": 13.26667,
+    "lat": 58.416672
+  }
+},
+{
+  "id": 2720496,
+  "name": "Borås Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 12.96667,
+    "lat": 57.75
+  }
+},
+{
+  "id": 2687698,
+  "name": "Nyköpings Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 17.16667,
+    "lat": 58.916672
+  }
+},
+{
+  "id": 2682532,
+  "name": "Ringön",
+  "country": "SE",
+  "coord": {
+    "lon": 11.96667,
+    "lat": 57.716671
+  }
+},
+{
+  "id": 2704611,
+  "name": "Hudiksvalls Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 17.16667,
+    "lat": 61.666672
+  }
+},
+{
+  "id": 2664855,
+  "name": "Varnamo",
+  "country": "SE",
+  "coord": {
+    "lon": 14.04001,
+    "lat": 57.186039
+  }
+},
+{
+  "id": 2720114,
+  "name": "Botkyrka Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 17.816669,
+    "lat": 59.200001
+  }
+},
+{
+  "id": 2675396,
+  "name": "Solna Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 18.00728,
+    "lat": 59.365479
+  }
+},
+{
+  "id": 2698738,
+  "name": "Kungälvs Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 11.91667,
+    "lat": 57.900002
+  }
+},
+{
+  "id": 2699780,
+  "name": "Köpings Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 16,
+    "lat": 59.583328
+  }
+},
+{
+  "id": 2701712,
+  "name": "Karlskrona Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 15.66667,
+    "lat": 56.25
+  }
+},
+{
+  "id": 2703292,
+  "name": "Järfälla Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 17.865141,
+    "lat": 59.408749
+  }
+},
+{
+  "id": 2703396,
+  "name": "Jakobsberg",
+  "country": "SE",
+  "coord": {
+    "lon": 17.835079,
+    "lat": 59.42268
+  }
+},
+{
+  "id": 2704619,
+  "name": "Huddinge Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 18,
+    "lat": 59.216671
+  }
+},
+{
+  "id": 2707396,
+  "name": "Hässleholms Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 13.73333,
+    "lat": 56.216671
+  }
+},
+{
+  "id": 2715566,
+  "name": "Falköpings Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 13.51667,
+    "lat": 58.200001
+  }
+},
+{
+  "id": 2715945,
+  "name": "Eslövs Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 13.31667,
+    "lat": 55.849998
+  }
+},
+{
+  "id": 2725194,
+  "name": "Årstaskog",
+  "country": "SE",
+  "coord": {
+    "lon": 18.043329,
+    "lat": 59.30262
+  }
+},
+{
+  "id": 2685981,
+  "name": "Österåkers Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 18.299789,
+    "lat": 59.483452
+  }
+},
+{
+  "id": 2715329,
+  "name": "Färjenäs",
+  "country": "SE",
+  "coord": {
+    "lon": 11.90639,
+    "lat": 57.697498
+  }
+},
+{
+  "id": 2661886,
+  "name": "Kingdom of Sweden",
+  "country": "SE",
+  "coord": {
+    "lon": 15,
+    "lat": 62
+  }
+},
+{
+  "id": 3337385,
+  "name": "Skåne Län",
+  "country": "SE",
+  "coord": {
+    "lon": 13.5,
+    "lat": 55.98333
+  }
+},
+{
+  "id": 2663398,
+  "name": "Vellinge Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 13.03333,
+    "lat": 55.466671
+  }
+},
+{
+  "id": 2673146,
+  "name": "Stora Hammar",
+  "country": "SE",
+  "coord": {
+    "lon": 12.96667,
+    "lat": 55.424999
+  }
+},
+{
+  "id": 2693555,
+  "name": "Lunds Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 13.2,
+    "lat": 55.716671
+  }
+},
+{
+  "id": 2665403,
+  "name": "Vallkära",
+  "country": "SE",
+  "coord": {
+    "lon": 13.17698,
+    "lat": 55.738811
+  }
+},
+{
+  "id": 2699308,
+  "name": "Kristianstads Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 14.15,
+    "lat": 56
+  }
+},
+{
+  "id": 2706917,
+  "name": "Hedentorp",
+  "country": "SE",
+  "coord": {
+    "lon": 14.15,
+    "lat": 56.01667
+  }
+},
+{
+  "id": 2670540,
+  "name": "Svalövs Kommun",
+  "country": "SE",
+  "coord": {
+    "lon": 13.15,
+    "lat": 55.966671
+  }
+},
+{
+  "id": 2700597,
+  "name": "Klåveröd",
+  "country": "SE",
+  "coord": {
+    "lon": 13.13333,
+    "lat": 56.033329
+  }
+}
+]
+}
